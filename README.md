@@ -1,4 +1,4 @@
-The above codes are for the paper "Synthesizing V-count-optimal quantum circuits for arbitrary multi-qubit unitaries", by Priyanka Mukhopadhyay. The implementations are in Python.
+The above codes are for the paper "Synthesis of V-count-optimal quantum circuits for multi-qubit unitaries", by Priyanka Mukhopadhyay. The implementations are in Python.
 
 Exact_V_opt.py : This is the code for synthesizing exactly implementable unitaries, using generating set Clifford+G_{Cliff}^{(2)}. It implements EXACT-V-OPT and its sub-routines. RANDOM-CHAN-REP is also implemented here.
 
